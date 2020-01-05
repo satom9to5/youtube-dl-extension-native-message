@@ -1,0 +1,5 @@
+# vim
+*.swp
+
+# log file
+logs/*.log

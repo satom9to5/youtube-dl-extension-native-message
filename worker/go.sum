@@ -1,0 +1,8 @@
+github.com/mattn/go-sqlite3 v2.0.1+incompatible h1:xQ15muvnzGBHpIpdrNi1DA5x0+TcBZzsIDwmw9uTHzw=
+github.com/mattn/go-sqlite3 v2.0.1+incompatible/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
+github.com/mattn/go-sqlite3 v2.0.2+incompatible h1:qzw9c2GNT8UFrgWNDhCTqRqYUSmu/Dav/9Z58LGpk7U=
+github.com/mattn/go-sqlite3 v2.0.2+incompatible/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
+github.com/satom9to5/pidfile v0.0.0-20190604150648-b4983bc136e3 h1:MdcSJyvIuJB8qKsZovcapg6y576rvRyhC4WuaXq1MHU=
+github.com/satom9to5/pidfile v0.0.0-20190604150648-b4983bc136e3/go.mod h1:IrVds5ef16wM0Jt1eDF7VZkw333pAnlM2s2qKtp7AhQ=
+github.com/satom9to5/youtube-dl-queue v0.0.0-20191212161905-73fb72f540dd h1:XbZHWFQQctyrZA7Jr3cYoqMYyEzhW9Jwgpod5F2fhR0=
+github.com/satom9to5/youtube-dl-queue v0.0.0-20191212161905-73fb72f540dd/go.mod h1:Bv3UBBl1AP2mA4+GTWejSpe2sfT17FYfEaw9mtzG1Nc=

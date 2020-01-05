@@ -1,0 +1,9 @@
+{
+  "name": "youtube_dl_extension",
+  "description": "youtube-dl worker accessor",
+  "path": "native_message.bat",
+  "type": "stdio",
+  "allowed_extensions": [
+    "youtube_dl_extension@example.org"
+  ]
+}

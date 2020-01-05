@@ -1,0 +1,9 @@
+{
+  "name": "youtube_dl_extension_dev",
+  "description": "youtube-dl worker accessor",
+  "path": "gorun.bat",
+  "type": "stdio",
+  "allowed_extensions": [
+    "youtube_dl_extension@example.org"
+  ]
+}

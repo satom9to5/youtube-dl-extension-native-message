@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  native_app:
+    build:
+      context: .
+    image: satom9to5/youtube-dl-extension-native-message
+    volumes:
+      - .:/native_message
+      - ../../..:/go/src
+    tty: true
