@@ -1,5 +1,8 @@
 # vim
 *.swp
 
+# binary
+bin/*
+
 # log file
 logs/*.log
